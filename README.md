@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Halo, Saya Adi Yohanes!
 
-<!--
-**AdiYohanes/AdiYohanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Tentang Saya:**
+- 💼 Saat ini bekerja di **Hands Indonesia** sebagai Technical Consultant Netsuite.
+- 🔧 Pengalaman sebelumnya: **IT Support di Indomaret Group**.
+- 🏙️ Berdomisili di **Jakarta**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skill Utama
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+---
+
+## 📊 Statistik Bahasa yang Sering Saya Gunakan
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiYohanes&layout=compact&theme=radical)
+
+---
+
+## 💬 Ayo Terhubung!
+- [LinkedIn](https://www.linkedin.com/in/adi-yohanes/) *(Contoh link, sesuaikan dengan profil LinkedIn kamu)*
+- 📫 **Email:** adi.yohanes@example.com *(Ganti dengan email kamu)*
+
+---
+
+## ✨ Beberapa Proyek yang Saya Banggakan
+- **[Proyek 1](#)** - Deskripsi singkat proyek (sesuaikan dengan proyekmu).
+- **[Proyek 2](#)** - Deskripsi singkat proyek lainnya.
+
+---
+
+Terima kasih sudah mengunjungi profil saya! Jangan ragu untuk berkolaborasi atau bertanya. 😊
