@@ -31,8 +31,8 @@
 ---
 
 ## 💬 Ayo Terhubung!
-- [LinkedIn](https://www.linkedin.com/in/adi-yohanes/) *(Contoh link, sesuaikan dengan profil LinkedIn kamu)*
-- 📫 **Email:** adi.yohanes@example.com *(Ganti dengan email kamu)*
+- [LinkedIn]([https://www.linkedin.com/in/adi-yohanes/](https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/)) 
+- 📫 **Email:** adiyohanes19@gmail.com 
 
 ---
 
