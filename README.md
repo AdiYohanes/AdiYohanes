@@ -2,7 +2,7 @@
 
 🎯 **Tentang Saya:**
 - 💼 Saat ini bekerja di **Hands Indonesia** sebagai Technical Consultant Netsuite.
-- 🔧 Pengalaman sebelumnya: **IT Support di Indomaret Group**.
+- 🔧 Pengalaman sebelumnya: **IT Support Software Developement**.**Front End Web Developer**
 - 🏙️ Berdomisili di **Jakarta**.
 
 ---
