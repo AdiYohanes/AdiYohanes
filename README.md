@@ -1,9 +1,9 @@
-# 👋 Halo, Saya Adi Yohanes!
+👋 Hi, I'm Adi Yohanes!
 
-🎯 **Tentang Saya:**
-- 💼 Saat ini bekerja di **Hands Indonesia** sebagai Technical Consultant Netsuite.
-- 🔧 Pengalaman sebelumnya: **IT Support Software Developement**.**Front End Web Developer**
-- 🏙️ Berdomisili di **Jakarta**.
+💻 Web Developer focused on building modern, fast, and user-friendly web applications.
+🔧 Experienced with HTML, CSS, JavaScript, and modern frontend frameworks.
+🚀 Passionate about creating clean, responsive, and efficient UI experiences.
+📍 Based in Jakarta.
 
 ---
 
