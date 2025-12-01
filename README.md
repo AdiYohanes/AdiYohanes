@@ -1,7 +1,7 @@
 👋 Hi, I'm Adi Yohanes!
-
-💻 Web Developer focused on building modern, fast, and user-friendly web applications.
-🔧 Experienced with HTML, CSS, JavaScript, and modern frontend frameworks.
+💻 I’m a Software Developer with a degree in Informatics Engineering from Sanata Dharma University. I enjoy building modern, fast, and scalable web apps using React, Next.js, Vite, and NestJS.
+🔧 I code with HTML, CSS, JavaScript, TypeScript, PHP, Java, and Python, and I work with databases like MySQL, PostgreSQL, and MongoDB.
+❤️ I love learning new tech and turning ideas into real, user-friendly products.
 🚀 Passionate about creating clean, responsive, and efficient UI experiences.
 📍 Based in Jakarta.
 
