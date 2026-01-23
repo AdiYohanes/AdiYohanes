@@ -1,13 +1,13 @@
-👋 Hi, I'm Adi Yohanes!
-💻 I’m a Software Developer with a degree in Informatics Engineering from Sanata Dharma University. I enjoy building modern, fast, and scalable web apps using React, Next.js, Vite, and NestJS.
-🔧 I code with HTML, CSS, JavaScript, TypeScript, PHP, Java, and Python, and I work with databases like MySQL, PostgreSQL, and MongoDB.
-❤️ I love learning new tech and turning ideas into real, user-friendly products.
-🚀 Passionate about creating clean, responsive, and efficient UI experiences.
-📍 Based in Jakarta.
+👋 Hi, I’m Adi Yohanes
+💻 Software Developer | Informatics Engineering graduate from Sanata Dharma University
+I build modern, fast, and scalable web applications using React, Next.js, Vite, and NestJS.
+Experienced with JavaScript, TypeScript, PHP, Java, and Python, and databases like MySQL, PostgreSQL, and MongoDB.
+🚀 Passionate about clean architecture, responsive UI, and turning ideas into real, user-friendly products.
+📍 Jakarta, Indonesia
 
 ---
 
-## ⚡ Skill Utama
+## ⚡ Main Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -24,22 +24,23 @@
 
 ---
 
-## 📊 Statistik Bahasa yang Sering Saya Gunakan
+## 📊 Statistics of Languages ​​I Use Frequently
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiYohanes&layout=compact&theme=radical)
 
 ---
 
-## 💬 Ayo Terhubung!
+## 💬 Let's Connect !
 - [LinkedIn]([https://www.linkedin.com/in/adi-yohanes/](https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/)) 
 - 📫 **Email:** adiyohanes19@gmail.com 
 
 ---
 
-## ✨ Beberapa Proyek yang Saya Banggakan
-- **[Proyek 1](#)** - Deskripsi singkat proyek (sesuaikan dengan proyekmu).
-- **[Proyek 2](#)** - Deskripsi singkat proyek lainnya.
+## ✨ Some Projects I'm Proud Of
+- **[PS Rental Medan Gaming](https://medangamingecosystem.com/)** - Medan Gaming Ecosystem (MGE) is a modern gaming & lifestyle platform offering premium console gaming, social hangout spaces, and online room booking for the local gaming community.
+- **[Resto Grili – Restaurant Website](https://resto-grili.vercel.app/)** - Resto Grili is a responsive restaurant website featuring menu sections, chef profiles, and online table booking functionality, designed to present a delightful dining experience.
+- **[Ticku – Event Organizer Website](https://ticku-event-organizer.vercel.app/)** -A modern event organizer website with a clean, responsive design for showcasing services and events.
 
 ---
 
-Terima kasih sudah mengunjungi profil saya! Jangan ragu untuk berkolaborasi atau bertanya. 😊
+Thank you for visiting my profile! Feel free to collaborate or ask questions. 😊
