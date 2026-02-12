@@ -1,8 +1,25 @@
 👋 Hi, I’m Adi Yohanes
-💻 Software Developer | Informatics Engineering graduate from Sanata Dharma University
-I build modern, fast, and scalable web applications using React, Next.js, Vite, and NestJS.
-Experienced with JavaScript, TypeScript, PHP, Java, and Python, and databases like MySQL, PostgreSQL, and MongoDB.
-🚀 Passionate about clean architecture, responsive UI, and turning ideas into real, user-friendly products.
+💼 NetSuite ERP Developer | ⚛️ Frontend Developer
+
+🔷 NetSuite Expertise:
+- SuiteScript 2.x (Client Script, User Event, Scheduled, RESTlet, Map/Reduce)
+- SuiteFlow, SuiteBuilder, SuiteAnalytics
+- SuiteTalk (SOAP/REST), SuiteCommerce Advanced
+- Custom Records, Fields, Forms & Workflows
+- Third-party Integrations & Middleware
+
+🔷 Frontend Development:
+- React.js, Next.js, Vite - Component-based architecture
+- TypeScript, JavaScript (ES6+)
+- Responsive UI/UX, Tailwind CSS, Material-UI
+- State Management (Redux, Context API)
+- RESTful API integration
+
+🔷 Backend & Database:
+- NestJS, Node.js, PHP
+- MySQL, PostgreSQL, MongoDB
+
+🚀 Building end-to-end solutions: from ERP customization to modern web interfaces
 📍 Jakarta, Indonesia
 
 ---
