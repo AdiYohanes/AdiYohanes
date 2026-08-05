@@ -1,14 +1,27 @@
+````md
 <div align="center">
 
 # 👋 Hi, I'm Adi Yohanes
 
-### 🏢 NetSuite ERP Developer | ⚛️ Frontend Engineer
+### 🏢 NetSuite ERP Developer • ⚛️ Full Stack Engineer
 
-*Building enterprise solutions that connect business operations with modern web experiences.*
+Building enterprise software, ERP integrations, and modern web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adiyohanes19@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Jakarta,_Indonesia-green?style=for-the-badge)](https://www.google.com/maps/place/Jakarta)
+<p>
+
+<a href="mailto:adiyohanes19@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AdiYohanes&style=for-the-badge&color=blue"/>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Enterprise%20Software%20Engineer&fontSize=34&fontColor=ffffff"/>
 
 </div>
 
@@ -16,350 +29,247 @@
 
 # 🚀 About Me
 
-I'm a **Software Engineer** specializing in **NetSuite ERP Development** and **Modern Web Applications**.
+```yaml
+Name: Adi Yohanes
 
-With over **2 years of experience** in NetSuite ERP, I build enterprise solutions that automate business processes, integrate third-party systems, and develop scalable web applications using modern JavaScript technologies.
+Role:
+  - NetSuite ERP Developer
+  - Full Stack Engineer
 
-> **From ERP automation to pixel-perfect frontend experiences.**
+Experience:
+  - 2+ Years in NetSuite ERP
+  - Modern Web Development
 
----
+Focus:
+  - ERP Automation
+  - API Integration
+  - Enterprise Systems
+  - React Ecosystem
 
-# 🛠 Tech Stack
-
-<details open>
-<summary><b>🏢 NetSuite ERP Development</b></summary>
-
-<br>
-
-### 💻 Enterprise Development
-
-- **SuiteScript 2.x**
-  - Client Script
-  - User Event Script
-  - RESTlet
-  - Scheduled Script
-  - Map/Reduce Script
-
-- **SuiteBuilder**
-  - Custom Records
-  - Custom Fields
-  - Custom Forms
-  - Sublists
-
-- **SuiteFlow**
-  - Workflow Automation
-  - Business Process Automation
-
-- **SuiteAnalytics**
-  - Saved Searches
-  - Reports
-  - KPI Dashboard
-
-- **SuiteTalk**
-  - REST Web Services
-  - SOAP Web Services
-
-- **Performance**
-  - Script Governance
-  - Script Optimization
-  - Error Handling
-  - Logging
-
-### 🔄 ERP Integration
-
-- RESTlet API Development
-- Third-party ERP Integration
-- Middleware Integration
-- REST API
-- SOAP API
-- OAuth Authentication
-- Token-Based Authentication (TBA)
-- JSON/XML Data Mapping
-- Data Synchronization
-
-### 📦 ERP Business Processes
-
-- Inventory Management
-- Purchase Order Automation
-- Sales Order Processing
-- Item Receipt
-- Item Fulfillment
-- Inventory Adjustment
-- Inventory Transfer
-- Vendor Return Authorization (VRA)
-- Warehouse Operations
-
-### 🏗 Solution Architecture
-
-- Business Process Analysis
-- ERP Customization
-- API Design
-- Business Rule Validation
-- Deployment & Release
-- Performance Optimization
-
-</details>
-
-<details open>
-<summary><b>⚛️ Frontend Development</b></summary>
-
-<br>
-
-### Frameworks
-
-- React.js
-- Next.js
-- Vite
-
-### Languages
-
-- TypeScript
-- JavaScript (ES6+)
-
-### UI Development
-
-- Tailwind CSS
-- Material UI
-- Responsive Design
-- GSAP Animation
-
-### State Management
-
-- Redux
-- Context API
-- React Query
-
-### Architecture
-
-- Component-Based Architecture
-- Atomic Design
-- Clean Code
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-
-<br>
-
-- NestJS
-- Node.js
-- Express.js
-- PHP
-
-### API
-
-- RESTful API
-- GraphQL
-- Authentication
-- API Documentation
-
-</details>
-
-<details open>
-<summary><b>🗄 Database</b></summary>
-
-<br>
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
-</details>
-
-<details open>
-<summary><b>☁ Other Technologies</b></summary>
-
-<br>
-
-- Git
-- GitHub
-- Docker
-- Python
-- Java
-
-</details>
+Currently Learning:
+  - AI Development
+  - System Architecture
+```
 
 ---
 
 # 🏆 Core Expertise
 
-- 🏢 NetSuite ERP Development
-- ⚙️ SuiteScript 2.x Development
-- 🔄 RESTlet & API Integration
-- 📦 ERP Business Process Automation
-- 🔗 Third-party System Integration
-- ⚛️ React & Next.js Development
-- 🚀 Full Stack Web Development
-- 🎯 Enterprise Solution Architecture
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Enterprise
+
+- SuiteScript 2.x
+- RESTlet Development
+- SuiteTalk
+- Workflow Automation
+- SuiteBuilder
+- SuiteAnalytics
+- REST API
+- SOAP API
+- ERP Integration
+- Business Automation
+
+</td>
+
+<td width="50%">
+
+### ⚛️ Web Development
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- NestJS
+- Tailwind CSS
+- PostgreSQL
+- MongoDB
+- MySQL
+- GraphQL
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Main Skills
+# 💻 Tech Stack
 
-<p align="center">
+<div align="center">
+
+### Enterprise ERP
+
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
 <img src="https://img.shields.io/badge/NetSuite-FF6600?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SuiteScript_2.x-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SuiteScript-FF6B00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RESTlet-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/API_Integration-0284C7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
+<img src="https://img.shields.io/badge/SuiteTalk-059669?style=for-the-badge"/>
 
 ---
 
-# 📊 GitHub Statistics
+### Frontend
 
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiYohanes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
-height="180"/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=AdiYohanes&theme=radical&hide_border=true&background=0D1117"
-height="180"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,redux"/>
 
 ---
 
-# 💼 Enterprise Experience
+### Backend
 
-### 🏢 NetSuite ERP
-
-- SuiteScript 2.x Development
-- RESTlet API Development
-- ERP Business Process Automation
-- Third-party ERP Integration
-- Workflow Automation
-- Custom Record Development
-- Inventory Management Solutions
-- Purchase Order Automation
-- Vendor Return Management
-- Item Receipt Automation
-- API Integration
-- Business Rule Validation
-- Saved Search & Reporting
-- Performance Optimization
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 
 ---
 
-# ✨ Featured Projects
+### Database
 
-## 🎮 PS Rental Medan Gaming
-
-**Modern Gaming & Lifestyle Platform**
-
-🔗 https://medangamingecosystem.com/
-
-**Highlights**
-
-- Online Booking Platform
-- Responsive UI
-- Modern User Experience
-- SEO Friendly
-
-**Tech Stack**
-
-`Next.js` • `React` • `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 
 ---
 
-## 🍽 Resto Grili
+### Tools
 
-**Restaurant Landing Page**
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
 
-🔗 https://resto-grili.vercel.app/
-
-**Highlights**
-
-- Responsive Design
-- Interactive Menu
-- Smooth Animation
-- Modern UI
-
-**Tech Stack**
-
-`React` • `Vite` • `Tailwind CSS`
+</div>
 
 ---
 
-## 🎫 Ticku Event Organizer
+# 📦 NetSuite Expertise
 
-**Event Organizer Landing Page**
+```text
+✔ SuiteScript 2.x
 
-🔗 https://ticku-event-organizer.vercel.app/
+✔ RESTlet Development
 
-**Highlights**
+✔ Business Process Automation
 
-- Mobile First
-- Responsive
-- Clean UI
-- Service Showcase
+✔ Inventory Management
 
-**Tech Stack**
+✔ Purchase Order Automation
 
-`Next.js` • `Tailwind CSS`
+✔ Vendor Return Authorization
+
+✔ Inventory Transfer
+
+✔ Item Receipt
+
+✔ Saved Search
+
+✔ SuiteAnalytics
+
+✔ REST / SOAP Integration
+
+✔ OAuth / Token-Based Authentication
+
+✔ Middleware Integration
+
+✔ JSON/XML Mapping
+
+✔ Script Governance
+
+✔ Performance Optimization
+```
 
 ---
 
-# 💡 What I Do Best
+# 📊 GitHub Analytics
 
-```javascript
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdiYohanes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiYohanes&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiYohanes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎮 Medan Gaming Ecosystem | Gaming booking platform | Next.js • React |
+| 🍽️ Resto Grili | Restaurant Landing Page | React • Vite |
+| 🎫 Ticku | Event Organizer | Next.js |
+
+---
+
+# 💡 What I Build
+
+```ts
 const adi = {
-  role: "Software Engineer",
 
-  enterprise: {
-    erp: "NetSuite ERP",
-    experience: "2+ Years",
-    specialties: [
-      "SuiteScript 2.x",
-      "RESTlet Development",
-      "ERP Integration",
-      "Workflow Automation",
-      "Business Process Automation",
-      "Inventory Management",
-      "Purchase Order",
-      "Vendor Return",
-      "Performance Optimization"
+    role: "Enterprise Software Engineer",
+
+    erp: {
+
+        platform: "NetSuite",
+
+        expertise: [
+
+            "SuiteScript 2.x",
+
+            "RESTlet",
+
+            "ERP Automation",
+
+            "Workflow",
+
+            "Integration"
+
+        ]
+
+    },
+
+    frontend: [
+
+        "React",
+
+        "Next.js",
+
+        "TypeScript"
+
+    ],
+
+    backend: [
+
+        "Node.js",
+
+        "NestJS"
+
+    ],
+
+    databases: [
+
+        "PostgreSQL",
+
+        "MySQL",
+
+        "MongoDB"
+
+    ],
+
+    currentlyBuilding: [
+
+        "Enterprise ERP",
+
+        "Modern Web Apps",
+
+        "AI Workflow"
+
     ]
-  },
 
-  frontend: {
-    frameworks: ["React", "Next.js", "Vite"],
-    styling: ["Tailwind CSS", "Material UI"],
-    language: ["TypeScript", "JavaScript"]
-  },
-
-  backend: {
-    framework: ["NestJS", "Node.js", "Express"],
-    database: ["PostgreSQL", "MySQL", "MongoDB"]
-  },
-
-  motto:
-    "Transforming business processes into seamless digital experiences."
 };
 
 export default adi;
@@ -367,24 +277,37 @@ export default adi;
 
 ---
 
+# 🌱 Currently Exploring
+
+- 🤖 AI Development Workflow
+- 🚀 Enterprise System Architecture
+- ☁ Cloud Applications
+- ⚡ Performance Optimization
+- 🔗 API Design
+
+---
+
 # 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:adiyohanes19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="mailto:adiyohanes19@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*"Building enterprise software with clean architecture and modern technologies."*
+<a href="https://www.linkedin.com/in/yohanes-wicaksono-adi-807316165/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Transforming business processes into seamless digital experiences."*
+
+</div>
+````
